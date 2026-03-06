@@ -14,6 +14,8 @@ This program prints numbers starting from 41 and increases the numbers in each r
 🔗 Project Link : https://onlinegdb.com/fRrgJYr78
 
 💻 Sample Output
+
+
 41
 
 4142
@@ -35,6 +37,8 @@ This program prints numbers starting from 11 in an increasing triangular pattern
 
 
 💻 Sample Output
+
+
 11
 
 12 13
@@ -54,6 +58,8 @@ This program prints a right aligned number pattern using spaces.
 
 
 💻 Sample Output
+
+
     5
     
    45
@@ -74,6 +80,8 @@ This program prints a pattern using modulus operator (%) to create alternating n
 🔗 Project Link : https://onlinegdb.com/0miXExbfAU
 
 💻 Sample Output
+
+
 10101
 
  0101
@@ -95,6 +103,8 @@ This program prints a number pyramid pattern using increasing and decreasing num
  
 
 💻 Sample Output
+
+
         5
         
       4 5 4
@@ -119,6 +129,8 @@ This program prints a mirror number pattern with spaces in the middle.
 🖼️ Screenshot
 
 💻 Sample Output
+
+
 1        1
 
 12      21
