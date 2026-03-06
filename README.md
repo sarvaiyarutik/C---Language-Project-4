@@ -15,9 +15,13 @@ This program prints numbers starting from 41 and increases the numbers in each r
 
 💻 Sample Output
 41
+
 4142
+
 414243
+
 41424344
+
 4142434445
 
 
@@ -32,8 +36,11 @@ This program prints numbers starting from 11 in an increasing triangular pattern
 
 💻 Sample Output
 11
+
 12 13
+
 14 15 16
+
 17 18 19 20
 
 
@@ -48,9 +55,13 @@ This program prints a right aligned number pattern using spaces.
 
 💻 Sample Output
     5
+    
    45
+   
   345
+  
  2345
+ 
 12345
 
 
@@ -64,9 +75,13 @@ This program prints a pattern using modulus operator (%) to create alternating n
 
 💻 Sample Output
 10101
+
  0101
+ 
   101
+  
    01
+   
     1
 
     
@@ -81,9 +96,13 @@ This program prints a number pyramid pattern using increasing and decreasing num
 
 💻 Sample Output
         5
+        
       4 5 4
+      
     3 4 5 4 3
+    
   2 3 4 5 4 3 2
+  
 1 2 3 4 5 4 3 2 1
 
 
@@ -101,9 +120,13 @@ This program prints a mirror number pattern with spaces in the middle.
 
 💻 Sample Output
 1        1
+
 12      21
+
 123    321
+
 1234  4321
+
 1234554321
 
 
@@ -118,9 +141,13 @@ This program prints a letter style star pattern using conditional statements.
 💻 Sample Output
 
 * * * * *
+
 *       *
+
 * * * * *
+
 *
+
 *
 
 
