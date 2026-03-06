@@ -153,13 +153,9 @@ This program prints a letter style star pattern using conditional statements.
 💻 Sample Output
 
 * * * * *
-
 *       *
-
 * * * * *
-
 *
-
 *
 
 
